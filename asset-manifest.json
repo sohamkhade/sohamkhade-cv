@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sohamkhade-cv/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/sohamkhade-cv/static/js/main.32250874.chunk.js",
+    "main.js.map": "/sohamkhade-cv/static/js/main.32250874.chunk.js.map",
+    "runtime-main.js": "/sohamkhade-cv/static/js/runtime-main.d13b49ab.js",
+    "runtime-main.js.map": "/sohamkhade-cv/static/js/runtime-main.d13b49ab.js.map",
+    "static/js/2.12442463.chunk.js": "/sohamkhade-cv/static/js/2.12442463.chunk.js",
+    "static/js/2.12442463.chunk.js.map": "/sohamkhade-cv/static/js/2.12442463.chunk.js.map",
+    "static/js/3.66bc59b4.chunk.js": "/sohamkhade-cv/static/js/3.66bc59b4.chunk.js",
+    "static/js/3.66bc59b4.chunk.js.map": "/sohamkhade-cv/static/js/3.66bc59b4.chunk.js.map",
+    "index.html": "/sohamkhade-cv/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/sohamkhade-cv/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.12442463.chunk.js.LICENSE.txt": "/sohamkhade-cv/static/js/2.12442463.chunk.js.LICENSE.txt",
+    "static/media/SOHAM_KHADE-removebg-preview.3aa5d2a9.png": "/sohamkhade-cv/static/media/SOHAM_KHADE-removebg-preview.3aa5d2a9.png",
+    "static/media/alone-animate.0a0066cd.svg": "/sohamkhade-cv/static/media/alone-animate.0a0066cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d13b49ab.js",
+    "static/js/2.12442463.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.32250874.chunk.js"
+  ]
+}
